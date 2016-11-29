@@ -1,0 +1,124 @@
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\App.g.i.cs
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\App.g.cs
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\BasicPage1.g.i.cs
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\BasicPage1.g.cs
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\MainPage.g.cs
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\App.xbf
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\BasicPage1.xbf
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\MainPage.xbf
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\App5.Windows.xr.xml
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\App5.Windows.exe
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\App5.Windows.pdb
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\resources.pri
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\AppxManifest.xml
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\App5.Windows.build.appxrecipe
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\App.xaml
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\BasicPage1.xaml
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\App.xbf
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\BasicPage1.xbf
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\MainPage.xaml
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\MainPage.xbf
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\App5.Windows.exe
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\App5.Windows.pdb
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\App5.Windows.csproj.GenerateResource.Cache
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\priconfig.xml
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\layout.resfiles
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\resources.resfiles
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\pri.resfiles
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\qualifiers.txt
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\tlin2743\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\ProjectArchitectures.txt
+D:\App5\App5\App5.Windows\bin\Debug\App.xbf
+D:\App5\App5\App5.Windows\bin\Debug\BasicPage1.xbf
+D:\App5\App5\App5.Windows\bin\Debug\MainPage.xbf
+D:\App5\App5\App5.Windows\bin\Debug\App5.Windows.xr.xml
+D:\App5\App5\App5.Windows\bin\Debug\App5.Windows.exe
+D:\App5\App5\App5.Windows\bin\Debug\App5.Windows.pdb
+D:\App5\App5\App5.Windows\bin\Debug\resources.pri
+D:\App5\App5\App5.Windows\bin\Debug\AppxManifest.xml
+D:\App5\App5\App5.Windows\bin\Debug\App5.Windows.build.appxrecipe
+D:\App5\App5\App5.Windows\bin\Debug\Microsoft.Xaml.Interactions.dll
+D:\App5\App5\App5.Windows\bin\Debug\Microsoft.Xaml.Interactivity.dll
+D:\App5\App5\App5.Windows\obj\Debug\App.g.i.cs
+D:\App5\App5\App5.Windows\obj\Debug\App.g.cs
+D:\App5\App5\App5.Windows\obj\Debug\BasicPage1.g.i.cs
+D:\App5\App5\App5.Windows\obj\Debug\BasicPage1.g.cs
+D:\App5\App5\App5.Windows\obj\Debug\MainPage.g.i.cs
+D:\App5\App5\App5.Windows\obj\Debug\MainPage.g.cs
+D:\App5\App5\App5.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\App5\App5\App5.Windows\obj\Debug\App.xaml
+D:\App5\App5\App5.Windows\obj\Debug\BasicPage1.xaml
+D:\App5\App5\App5.Windows\obj\Debug\MainPage.xaml
+D:\App5\App5\App5.Windows\obj\Debug\App.xbf
+D:\App5\App5\App5.Windows\obj\Debug\BasicPage1.xbf
+D:\App5\App5\App5.Windows\obj\Debug\MainPage.xbf
+D:\App5\App5\App5.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\App5\App5\App5.Windows\obj\Debug\App5.Windows.exe
+D:\App5\App5\App5.Windows\obj\Debug\App5.Windows.pdb
+D:\App5\App5\App5.Windows\obj\Debug\App5.Windows.csproj.GenerateResource.Cache
+D:\App5\App5\App5.Windows\obj\Debug\priconfig.xml
+D:\App5\App5\App5.Windows\obj\Debug\priconfig.xml.intermediate
+D:\App5\App5\App5.Windows\obj\Debug\layout.resfiles
+D:\App5\App5\App5.Windows\obj\Debug\layout.resfiles.intermediate
+D:\App5\App5\App5.Windows\obj\Debug\resources.resfiles
+D:\App5\App5\App5.Windows\obj\Debug\resources.resfiles.intermediate
+D:\App5\App5\App5.Windows\obj\Debug\pri.resfiles
+D:\App5\App5\App5.Windows\obj\Debug\pri.resfiles.intermediate
+D:\App5\App5\App5.Windows\obj\Debug\qualifiers.txt
+D:\App5\App5\App5.Windows\obj\Debug\qualifiers.txt.intermediate
+D:\App5\App5\App5.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\App5\App5\App5.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\App.g.i.cs
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\App.g.cs
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\BasicPage1.g.i.cs
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\BasicPage1.g.cs
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\App.xaml
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\BasicPage1.xaml
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\App.xbf
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\BasicPage1.xbf
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\App5.Windows.exe
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\App5.Windows.pdb
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\App.xbf
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\BasicPage1.xbf
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\MainPage.xbf
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\App5.Windows.xr.xml
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\App5.Windows.exe
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\App5.Windows.pdb
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\resources.pri
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\App5.Windows.build.appxrecipe
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\MainPage.xaml
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\MainPage.xbf
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\App5.Windows.csproj.GenerateResource.Cache
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\priconfig.xml
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\layout.resfiles
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\resources.resfiles
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\pri.resfiles
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\qualifiers.txt
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\MicrosoftAdvertising.winmd
+C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\MicrosoftAdvertising.xml

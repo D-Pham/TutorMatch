@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DANIEL</Machine>
+    <WindowsUser>Potato</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1569dd49-d033-4ab3-b019-2e42a5724ff8</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C3CE86F500489FA99F16268CB1B682136AD7D71E1A94213C2E18DDC1A4787DF5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1569dd49-d033-4ab3-b019-2e42a5724ff8_1.0.0.0_neutral__yps17xarsp2at</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1569dd49-d033-4ab3-b019-2e42a5724ff8_yps17xarsp2at!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1569dd49-d033-4ab3-b019-2e42a5724ff8</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=test</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-12T09:15:03.146</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\App5.Windows.exe">
+      <PackagePath>App5.Windows.exe</PackagePath>
+      <Modified>2015-09-23T02:02:37.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2013-09-13T15:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-09-13T15:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-04-29T18:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-04-29T18:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2013-09-13T15:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2013-09-13T15:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2013-09-13T15:43:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2013-09-13T15:46:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\Assets\bg.png">
+      <PackagePath>Assets\bg.png</PackagePath>
+      <Modified>2014-10-12T02:20:47.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\Assets\imageedit_1_5237774271.png">
+      <PackagePath>Assets\imageedit_1_5237774271.png</PackagePath>
+      <Modified>2014-10-12T09:08:10.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T23:58:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T23:58:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T23:58:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T23:58:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\Assets\swaghat.png">
+      <PackagePath>Assets\swaghat.png</PackagePath>
+      <Modified>2014-10-12T09:12:13.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-12T01:04:56.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\BasicPage1.xbf">
+      <PackagePath>BasicPage1.xbf</PackagePath>
+      <Modified>2015-09-23T02:02:37.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-10-12T10:54:30.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\App5.Windows.xr.xml">
+      <PackagePath>App5.Windows.xr.xml</PackagePath>
+      <Modified>2014-10-12T10:54:30.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Potato\Documents\Visual Studio 2013\Projects\App5\App5\App5.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-12T09:15:01.635</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
